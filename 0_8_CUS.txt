@@ -1,0 +1,1004 @@
+T 1 : No Task
+T 2 : No Task
+T 3 : No Task
+T 4 : No Task
+T 5 : No Task
+T 6 : No Task
+T 7 : No Task
+T 8 : No Task
+T 9 : No Task
+T 10 : No Task
+T 11 :Aperiodic task 1 deadline :46
+T 12 :Aperiodic task 1 deadline :46
+T 13 :Aperiodic task 1 deadline :46
+T 14 :Aperiodic task 1 deadline :46
+T 15 :task 3
+T 16 :Aperiodic task 1 deadline :46
+T 17 :Aperiodic task 1 deadline :46
+T 18 :Aperiodic task 1 deadline :46
+T 19 : No Task
+T 20 : No Task
+T 21 : No Task
+T 22 : No Task
+T 23 : No Task
+T 24 : No Task
+T 25 : No Task
+T 26 : No Task
+T 27 : No Task
+T 28 : No Task
+T 29 : No Task
+T 30 :task 3
+T 31 : No Task
+T 32 : No Task
+T 33 : No Task
+T 34 : No Task
+T 35 : No Task
+T 36 : No Task
+T 37 : No Task
+T 38 : No Task
+T 39 : No Task
+T 40 : No Task
+T 41 : No Task
+T 42 : No Task
+T 43 : No Task
+T 44 : No Task
+T 45 :task 3
+T 46 :Aperiodic task 2 deadline :81
+T 47 :Aperiodic task 2 deadline :81
+T 48 :Aperiodic task 2 deadline :81
+T 49 :Aperiodic task 2 deadline :81
+T 50 :Aperiodic task 2 deadline :81
+T 51 :Aperiodic task 2 deadline :81
+T 52 :Aperiodic task 2 deadline :81
+T 53 :task 6
+T 54 :task 6
+T 55 :task 6
+T 56 :task 6
+T 57 : No Task
+T 58 : No Task
+T 59 : No Task
+T 60 :task 3
+T 61 : No Task
+T 62 : No Task
+T 63 : No Task
+T 64 : No Task
+T 65 : No Task
+T 66 : No Task
+T 67 : No Task
+T 68 : No Task
+T 69 : No Task
+T 70 : No Task
+T 71 : No Task
+T 72 : No Task
+T 73 : No Task
+T 74 :task 2
+T 75 :task 3
+T 76 :task 2
+T 77 :task 2
+T 78 :task 2
+T 79 :task 2
+T 80 :task 2
+T 81 :Aperiodic task 3 deadline :116
+T 82 :Aperiodic task 3 deadline :116
+T 83 :Aperiodic task 3 deadline :116
+T 84 :Aperiodic task 3 deadline :116
+T 85 :Aperiodic task 3 deadline :116
+T 86 :Aperiodic task 3 deadline :116
+T 87 :Aperiodic task 3 deadline :116
+T 88 :task 2
+T 89 : No Task
+T 90 :task 3
+T 91 : No Task
+T 92 : No Task
+T 93 : No Task
+T 94 : No Task
+T 95 : No Task
+T 96 :task 6
+T 97 :task 6
+T 98 :task 6
+T 99 :task 6
+T 100 :task 7
+T 101 :task 7
+T 102 :task 7
+T 103 :task 7
+T 104 : No Task
+T 105 :task 3
+T 106 : No Task
+T 107 : No Task
+T 108 : No Task
+T 109 : No Task
+T 110 : No Task
+T 111 : No Task
+T 112 : No Task
+T 113 : No Task
+T 114 : No Task
+T 115 : No Task
+T 116 :Aperiodic task 4 deadline :136
+T 117 :Aperiodic task 4 deadline :136
+T 118 :Aperiodic task 4 deadline :136
+T 119 :Aperiodic task 4 deadline :136
+T 120 :task 3
+T 121 : No Task
+T 122 : No Task
+T 123 : No Task
+T 124 : No Task
+T 125 : No Task
+T 126 : No Task
+T 127 : No Task
+T 128 : No Task
+T 129 : No Task
+T 130 : No Task
+T 131 : No Task
+T 132 : No Task
+T 133 : No Task
+T 134 : No Task
+T 135 :task 3
+T 136 :Aperiodic task 5 deadline :151
+T 137 :Aperiodic task 5 deadline :151
+T 138 :Aperiodic task 5 deadline :151
+T 139 : No Task
+T 140 : No Task
+T 141 : No Task
+T 142 : No Task
+T 143 : No Task
+T 144 :task 6
+T 145 :task 6
+T 146 :task 6
+T 147 :task 6
+T 148 :task 2
+T 149 :task 2
+T 150 :task 3
+T 151 :Aperiodic task 6 deadline :156
+T 152 :task 2
+T 153 :task 2
+T 154 :task 2
+T 155 :task 2
+T 156 :Aperiodic task 7 deadline :176
+T 157 :Aperiodic task 7 deadline :176
+T 158 :Aperiodic task 7 deadline :176
+T 159 :Aperiodic task 7 deadline :176
+T 160 :task 2
+T 161 :task 5
+T 162 :task 5
+T 163 :task 5
+T 164 :task 5
+T 165 :task 3
+T 166 :task 5
+T 167 : No Task
+T 168 : No Task
+T 169 : No Task
+T 170 : No Task
+T 171 : No Task
+T 172 : No Task
+T 173 : No Task
+T 174 : No Task
+T 175 : No Task
+T 176 :Aperiodic task 8 deadline :201
+T 177 :Aperiodic task 8 deadline :201
+T 178 :Aperiodic task 8 deadline :201
+T 179 :Aperiodic task 8 deadline :201
+T 180 :task 3
+T 181 :Aperiodic task 8 deadline :201
+T 182 :task 9
+T 183 :task 9
+T 184 :task 9
+T 185 :task 9
+T 186 :task 9
+T 187 :task 9
+T 188 :task 9
+T 189 :task 9
+T 190 :task 9
+T 191 :task 9
+T 192 :task 6
+T 193 :task 6
+T 194 :task 6
+T 195 :task 3
+T 196 :task 6
+T 197 :task 7
+T 198 :task 7
+T 199 :task 7
+T 200 :task 7
+T 201 :Aperiodic task 9 deadline :231
+T 202 :Aperiodic task 9 deadline :231
+T 203 :Aperiodic task 9 deadline :231
+T 204 :Aperiodic task 9 deadline :231
+T 205 :Aperiodic task 9 deadline :231
+T 206 :Aperiodic task 9 deadline :231
+T 207 :task 8
+T 208 :task 8
+T 209 :task 8
+T 210 :task 3
+T 211 :task 8
+T 212 :task 8
+T 213 :task 8
+T 214 :task 8
+T 215 :task 8
+T 216 :task 8
+T 217 :task 8
+T 218 :task 8
+T 219 :task 8
+T 220 :task 8
+T 221 :task 8
+T 222 :task 2
+T 223 :task 2
+T 224 :task 2
+T 225 :task 3
+T 226 :task 2
+T 227 :task 2
+T 228 :task 2
+T 229 :task 2
+T 230 :task 8
+T 231 :Aperiodic task 10 deadline :251
+T 232 :Aperiodic task 10 deadline :251
+T 233 :Aperiodic task 10 deadline :251
+T 234 :Aperiodic task 10 deadline :251
+T 235 :task 8
+T 236 :task 8
+T 237 :task 8
+T 238 :task 8
+T 239 :task 8
+T 240 :task 3
+T 241 :task 6
+T 242 :task 6
+T 243 :task 6
+T 244 :task 6
+T 245 :task 8
+T 246 :task 8
+T 247 :task 8
+T 248 :task 8
+T 249 :task 10
+T 250 :task 10
+T 251 :Aperiodic task 11 deadline :286
+T 252 :Aperiodic task 11 deadline :286
+T 253 :Aperiodic task 11 deadline :286
+T 254 :Aperiodic task 11 deadline :286
+T 255 :task 3
+T 256 :Aperiodic task 11 deadline :286
+T 257 :Aperiodic task 11 deadline :286
+T 258 :Aperiodic task 11 deadline :286
+T 259 :task 10
+T 260 :task 10
+T 261 :task 10
+T 262 :task 10
+T 263 :task 10
+T 264 :task 10
+T 265 :task 10
+T 266 :task 10
+T 267 :task 10
+T 268 :task 10
+T 269 :task 10
+T 270 :task 3
+T 271 :task 10
+T 272 :task 10
+T 273 :task 10
+T 274 :task 10
+T 275 :task 10
+T 276 :task 10
+T 277 :task 10
+T 278 :task 10
+T 279 :task 10
+T 280 :task 10
+T 281 :task 10
+T 282 :task 10
+T 283 :task 10
+T 284 :task 10
+T 285 :task 3
+T 286 :Aperiodic task 12 deadline :311
+T 287 :Aperiodic task 12 deadline :311
+T 288 :Aperiodic task 12 deadline :311
+T 289 :Aperiodic task 12 deadline :311
+T 290 :Aperiodic task 12 deadline :311
+T 291 :task 6
+T 292 :task 6
+T 293 :task 6
+T 294 :task 6
+T 295 :task 7
+T 296 :task 2
+T 297 :task 2
+T 298 :task 2
+T 299 :task 2
+T 300 :task 3
+T 301 :task 2
+T 302 :task 2
+T 303 :task 2
+T 304 :task 7
+T 305 :task 7
+T 306 :task 7
+T 307 :task 5
+T 308 :task 5
+T 309 :task 5
+T 310 :task 5
+T 311 :Aperiodic task 13 deadline :321
+T 312 :Aperiodic task 13 deadline :321
+T 313 :task 5
+T 314 :task 10
+T 315 :task 3
+T 316 :task 10
+T 317 :task 10
+T 318 :task 4
+T 319 :task 4
+T 320 :task 4
+T 321 :Aperiodic task 14 deadline :356
+T 322 :Aperiodic task 14 deadline :356
+T 323 :Aperiodic task 14 deadline :356
+T 324 :Aperiodic task 14 deadline :356
+T 325 :Aperiodic task 14 deadline :356
+T 326 :Aperiodic task 14 deadline :356
+T 327 :Aperiodic task 14 deadline :356
+T 328 :task 4
+T 329 :task 4
+T 330 :task 3
+T 331 :task 4
+T 332 :task 4
+T 333 :task 4
+T 334 :task 4
+T 335 :task 4
+T 336 :task 6
+T 337 :task 6
+T 338 :task 6
+T 339 :task 6
+T 340 :task 4
+T 341 :task 4
+T 342 :task 4
+T 343 :task 4
+T 344 :task 4
+T 345 :task 3
+T 346 :task 4
+T 347 :task 4
+T 348 :task 4
+T 349 :task 4
+T 350 :task 4
+T 351 :task 4
+T 352 :task 4
+T 353 :task 1
+T 354 :task 1
+T 355 :task 1
+T 356 :Aperiodic task 15 deadline :371
+T 357 :Aperiodic task 15 deadline :371
+T 358 :Aperiodic task 15 deadline :371
+T 359 :task 1
+T 360 :task 3
+T 361 :task 1
+T 362 :task 9
+T 363 :task 9
+T 364 :task 9
+T 365 :task 9
+T 366 :task 9
+T 367 :task 9
+T 368 :task 9
+T 369 :task 9
+T 370 :task 2
+T 371 :Aperiodic task 16 deadline :391
+T 372 :Aperiodic task 16 deadline :391
+T 373 :Aperiodic task 16 deadline :391
+T 374 :Aperiodic task 16 deadline :391
+T 375 :task 3
+T 376 :task 2
+T 377 :task 2
+T 378 :task 2
+T 379 :task 2
+T 380 :task 2
+T 381 :task 2
+T 382 :task 9
+T 383 :task 9
+T 384 :task 6
+T 385 :task 6
+T 386 :task 6
+T 387 :task 6
+T 388 :task 7
+T 389 :task 7
+T 390 :task 3
+T 391 :Aperiodic task 17 deadline :411
+T 392 :Aperiodic task 17 deadline :411
+T 393 :Aperiodic task 17 deadline :411
+T 394 :Aperiodic task 17 deadline :411
+T 395 :task 7
+T 396 :task 7
+T 397 :task 8
+T 398 :task 8
+T 399 :task 8
+T 400 :task 8
+T 401 :task 8
+T 402 :task 8
+T 403 :task 8
+T 404 :task 8
+T 405 :task 3
+T 406 :task 8
+T 407 :task 8
+T 408 :task 8
+T 409 :task 8
+T 410 :task 8
+T 411 :Aperiodic task 18 deadline :421
+T 412 :Aperiodic task 18 deadline :421
+T 413 :task 8
+T 414 :task 8
+T 415 :task 8
+T 416 :task 8
+T 417 :task 8
+T 418 :task 8
+T 419 :task 8
+T 420 :task 3
+T 421 :Aperiodic task 19 deadline :441
+T 422 :Aperiodic task 19 deadline :441
+T 423 :Aperiodic task 19 deadline :441
+T 424 :Aperiodic task 19 deadline :441
+T 425 :task 8
+T 426 :task 8
+T 427 :task 8
+T 428 :task 8
+T 429 :task 1
+T 430 :task 1
+T 431 :task 1
+T 432 :task 6
+T 433 :task 6
+T 434 :task 6
+T 435 :task 3
+T 436 :task 6
+T 437 :task 5
+T 438 :task 5
+T 439 :task 5
+T 440 :task 5
+T 441 :Aperiodic task 20 deadline :476
+T 442 :Aperiodic task 20 deadline :476
+T 443 :Aperiodic task 20 deadline :476
+T 444 :Aperiodic task 20 deadline :476
+T 445 :Aperiodic task 20 deadline :476
+T 446 :Aperiodic task 20 deadline :476
+T 447 :Aperiodic task 20 deadline :476
+T 448 :task 2
+T 449 :task 2
+T 450 :task 3
+T 451 :task 2
+T 452 :task 2
+T 453 :task 2
+T 454 :task 2
+T 455 :task 2
+T 456 :task 5
+T 457 :task 1
+T 458 :task 1
+T 459 :task 1
+T 460 :task 1
+T 461 :task 1
+T 462 :task 1
+T 463 :task 1
+T 464 :task 1
+T 465 :task 3
+T 466 :task 1
+T 467 :task 1
+T 468 :task 1
+T 469 :task 1
+T 470 :task 1
+T 471 :task 1
+T 472 :task 1
+T 473 :task 1
+T 474 :task 1
+T 475 :task 1
+T 476 :Aperiodic task 21 deadline :501
+T 477 :Aperiodic task 21 deadline :501
+T 478 :Aperiodic task 21 deadline :501
+T 479 :Aperiodic task 21 deadline :501
+T 480 :task 3
+T 481 :Aperiodic task 21 deadline :501
+T 482 :task 6
+T 483 :task 6
+T 484 :task 6
+T 485 :task 6
+T 486 :task 7
+T 487 :task 7
+T 488 :task 7
+T 489 :task 7
+T 490 :task 1
+T 491 :task 1
+T 492 :task 1
+T 493 :task 1
+T 494 :task 10
+T 495 :task 3
+T 496 :task 10
+T 497 :task 10
+T 498 :task 10
+T 499 :task 10
+T 500 :task 10
+T 501 :Aperiodic task 22 deadline :531
+T 502 :Aperiodic task 22 deadline :531
+T 503 :Aperiodic task 22 deadline :531
+T 504 :Aperiodic task 22 deadline :531
+T 505 :Aperiodic task 22 deadline :531
+T 506 :Aperiodic task 22 deadline :531
+T 507 :task 10
+T 508 :task 10
+T 509 :task 10
+T 510 :task 3
+T 511 :task 10
+T 512 :task 10
+T 513 :task 10
+T 514 :task 10
+T 515 :task 10
+T 516 :task 10
+T 517 :task 10
+T 518 :task 2
+T 519 :task 2
+T 520 :task 2
+T 521 :task 2
+T 522 :task 2
+T 523 :task 2
+T 524 :task 2
+T 525 :task 3
+T 526 :task 10
+T 527 :task 10
+T 528 :task 6
+T 529 :task 6
+T 530 :task 6
+T 531 :task 6
+T 532 :Aperiodic task 23 deadline :581
+T 533 :Aperiodic task 23 deadline :581
+T 534 :Aperiodic task 23 deadline :581
+T 535 :Aperiodic task 23 deadline :581
+T 536 :Aperiodic task 23 deadline :581
+T 537 :Aperiodic task 23 deadline :581
+T 538 :Aperiodic task 23 deadline :581
+T 539 :Aperiodic task 23 deadline :581
+T 540 :task 3
+T 541 :Aperiodic task 23 deadline :581
+T 542 :Aperiodic task 23 deadline :581
+T 543 :task 9
+T 544 :task 9
+T 545 :task 9
+T 546 :task 9
+T 547 :task 9
+T 548 :task 9
+T 549 :task 9
+T 550 :task 9
+T 551 :task 9
+T 552 :task 9
+T 553 :task 10
+T 554 :task 10
+T 555 :task 3
+T 556 :task 10
+T 557 :task 10
+T 558 :task 10
+T 559 :task 10
+T 560 :task 10
+T 561 :task 10
+T 562 :task 10
+T 563 :task 10
+T 564 :task 10
+T 565 :task 10
+T 566 : No Task
+T 567 : No Task
+T 568 : No Task
+T 569 : No Task
+T 570 :task 3
+T 571 : No Task
+T 572 : No Task
+T 573 : No Task
+T 574 : No Task
+T 575 : No Task
+T 576 :task 6
+T 577 :task 6
+T 578 :task 6
+T 579 :task 6
+T 580 :task 7
+T 581 :Aperiodic task 24 deadline :611
+T 582 :Aperiodic task 24 deadline :611
+T 583 :Aperiodic task 24 deadline :611
+T 584 :Aperiodic task 24 deadline :611
+T 585 :task 3
+T 586 :Aperiodic task 24 deadline :611
+T 587 :Aperiodic task 24 deadline :611
+T 588 :task 7
+T 589 :task 7
+T 590 :task 7
+T 591 :task 5
+T 592 :task 2
+T 593 :task 2
+T 594 :task 2
+T 595 :task 2
+T 596 :task 2
+T 597 :task 2
+T 598 :task 2
+T 599 :task 5
+T 600 :task 3
+T 601 :task 5
+T 602 :task 5
+T 603 :task 5
+T 604 :task 8
+T 605 :task 8
+T 606 :task 8
+T 607 :task 8
+T 608 :task 8
+T 609 :task 8
+T 610 :task 8
+T 611 :Aperiodic task 25 deadline :661
+T 612 :Aperiodic task 25 deadline :661
+T 613 :Aperiodic task 25 deadline :661
+T 614 :Aperiodic task 25 deadline :661
+T 615 :task 3
+T 616 :Aperiodic task 25 deadline :661
+T 617 :Aperiodic task 25 deadline :661
+T 618 :Aperiodic task 25 deadline :661
+T 619 :Aperiodic task 25 deadline :661
+T 620 :Aperiodic task 25 deadline :661
+T 621 :Aperiodic task 25 deadline :661
+T 622 :task 8
+T 623 :task 8
+T 624 :task 6
+T 625 :task 6
+T 626 :task 6
+T 627 :task 6
+T 628 :task 8
+T 629 :task 8
+T 630 :task 3
+T 631 :task 8
+T 632 :task 8
+T 633 :task 8
+T 634 :task 8
+T 635 :task 8
+T 636 :task 8
+T 637 :task 8
+T 638 :task 8
+T 639 :task 8
+T 640 :task 8
+T 641 :task 8
+T 642 :task 8
+T 643 :task 8
+T 644 :task 4
+T 645 :task 3
+T 646 :task 4
+T 647 :task 4
+T 648 :task 4
+T 649 :task 4
+T 650 :task 4
+T 651 :task 4
+T 652 :task 4
+T 653 :task 4
+T 654 :task 4
+T 655 :task 4
+T 656 :task 4
+T 657 :task 4
+T 658 :task 4
+T 659 :task 4
+T 660 :task 3
+T 661 :Aperiodic task 26 deadline :691
+T 662 :Aperiodic task 26 deadline :691
+T 663 :Aperiodic task 26 deadline :691
+T 664 :Aperiodic task 26 deadline :691
+T 665 :Aperiodic task 26 deadline :691
+T 666 :Aperiodic task 26 deadline :691
+T 667 :task 2
+T 668 :task 2
+T 669 :task 2
+T 670 :task 2
+T 671 :task 2
+T 672 :task 6
+T 673 :task 6
+T 674 :task 6
+T 675 :task 3
+T 676 :task 6
+T 677 :task 2
+T 678 :task 2
+T 679 :task 7
+T 680 :task 7
+T 681 :task 7
+T 682 :task 7
+T 683 :task 4
+T 684 :task 4
+T 685 :task 4
+T 686 :task 4
+T 687 :task 4
+T 688 :task 4
+T 689 :task 4
+T 690 :task 3
+T 691 :Aperiodic task 27 deadline :741
+T 692 :Aperiodic task 27 deadline :741
+T 693 :Aperiodic task 27 deadline :741
+T 694 :Aperiodic task 27 deadline :741
+T 695 :Aperiodic task 27 deadline :741
+T 696 :Aperiodic task 27 deadline :741
+T 697 :Aperiodic task 27 deadline :741
+T 698 :Aperiodic task 27 deadline :741
+T 699 :Aperiodic task 27 deadline :741
+T 700 :Aperiodic task 27 deadline :741
+T 701 :task 1
+T 702 :task 1
+T 703 :task 1
+T 704 :task 1
+T 705 :task 3
+T 706 :task 1
+T 707 :task 1
+T 708 :task 1
+T 709 :task 1
+T 710 :task 1
+T 711 :task 1
+T 712 :task 1
+T 713 :task 1
+T 714 :task 1
+T 715 :task 1
+T 716 :task 1
+T 717 :task 1
+T 718 :task 1
+T 719 :task 1
+T 720 :task 3
+T 721 :task 6
+T 722 :task 6
+T 723 :task 6
+T 724 :task 6
+T 725 :task 5
+T 726 :task 5
+T 727 :task 5
+T 728 :task 5
+T 729 :task 5
+T 730 :task 9
+T 731 :task 9
+T 732 :task 9
+T 733 :task 9
+T 734 :task 9
+T 735 :task 3
+T 736 :task 9
+T 737 :task 9
+T 738 :task 9
+T 739 :task 9
+T 740 :task 2
+T 741 :Aperiodic task 28 deadline :771
+T 742 :Aperiodic task 28 deadline :771
+T 743 :Aperiodic task 28 deadline :771
+T 744 :Aperiodic task 28 deadline :771
+T 745 :Aperiodic task 28 deadline :771
+T 746 :Aperiodic task 28 deadline :771
+T 747 :task 2
+T 748 :task 2
+T 749 :task 2
+T 750 :task 3
+T 751 :task 2
+T 752 :task 2
+T 753 :task 2
+T 754 :task 9
+T 755 :task 1
+T 756 :task 1
+T 757 :task 1
+T 758 :task 1
+T 759 :task 1
+T 760 :task 1
+T 761 :task 1
+T 762 :task 1
+T 763 :task 1
+T 764 :task 1
+T 765 :task 3
+T 766 :task 1
+T 767 :task 1
+T 768 :task 6
+T 769 :task 6
+T 770 :task 6
+T 771 :task 6
+T 772 :Aperiodic task 29 deadline :821
+T 773 :Aperiodic task 29 deadline :821
+T 774 :Aperiodic task 29 deadline :821
+T 775 :Aperiodic task 29 deadline :821
+T 776 :Aperiodic task 29 deadline :821
+T 777 :Aperiodic task 29 deadline :821
+T 778 :Aperiodic task 29 deadline :821
+T 779 :Aperiodic task 29 deadline :821
+T 780 :task 3
+T 781 :Aperiodic task 29 deadline :821
+T 782 :Aperiodic task 29 deadline :821
+T 783 :task 7
+T 784 :task 7
+T 785 :task 7
+T 786 :task 7
+T 787 :task 10
+T 788 :task 10
+T 789 :task 10
+T 790 :task 10
+T 791 :task 10
+T 792 :task 10
+T 793 :task 10
+T 794 :task 10
+T 795 :task 3
+T 796 :task 10
+T 797 :task 10
+T 798 :task 10
+T 799 :task 10
+T 800 :task 10
+T 801 :task 10
+T 802 :task 10
+T 803 :task 10
+T 804 :task 10
+T 805 :task 10
+T 806 :task 10
+T 807 :task 10
+T 808 :task 10
+T 809 :task 10
+T 810 :task 3
+T 811 :task 10
+T 812 :task 10
+T 813 :task 10
+T 814 :task 2
+T 815 :task 2
+T 816 :task 6
+T 817 :task 6
+T 818 :task 6
+T 819 :task 6
+T 820 :task 2
+T 821 :Aperiodic task 30 deadline :851
+T 822 :Aperiodic task 30 deadline :851
+T 823 :Aperiodic task 30 deadline :851
+T 824 :Aperiodic task 30 deadline :851
+T 825 :task 3
+T 826 :Aperiodic task 30 deadline :851
+T 827 :Aperiodic task 30 deadline :851
+T 828 :task 2
+T 829 :task 2
+T 830 :task 2
+T 831 :task 2
+T 832 :task 10
+T 833 :task 10
+T 834 :task 10
+T 835 :task 10
+T 836 :task 10
+T 837 :task 8
+T 838 :task 8
+T 839 :task 8
+T 840 :task 3
+T 841 :task 8
+T 842 :task 8
+T 843 :task 8
+T 844 :task 8
+T 845 :task 8
+T 846 :task 8
+T 847 :task 8
+T 848 :task 8
+T 849 :task 8
+T 850 :task 8
+T 851 :Aperiodic task 31 deadline :901
+T 852 :Aperiodic task 31 deadline :901
+T 853 :Aperiodic task 31 deadline :901
+T 854 :Aperiodic task 31 deadline :901
+T 855 :task 3
+T 856 :Aperiodic task 31 deadline :901
+T 857 :Aperiodic task 31 deadline :901
+T 858 :Aperiodic task 31 deadline :901
+T 859 :Aperiodic task 31 deadline :901
+T 860 :Aperiodic task 31 deadline :901
+T 861 :Aperiodic task 31 deadline :901
+T 862 :task 8
+T 863 :task 8
+T 864 :task 6
+T 865 :task 6
+T 866 :task 6
+T 867 :task 6
+T 868 :task 7
+T 869 :task 7
+T 870 :task 3
+T 871 :task 7
+T 872 :task 7
+T 873 :task 8
+T 874 :task 8
+T 875 :task 8
+T 876 :task 8
+T 877 :task 8
+T 878 :task 8
+T 879 :task 8
+T 880 :task 8
+T 881 :task 8
+T 882 :task 5
+T 883 :task 5
+T 884 :task 5
+T 885 :task 3
+T 886 :task 5
+T 887 :task 5
+T 888 :task 2
+T 889 :task 2
+T 890 :task 2
+T 891 :task 2
+T 892 :task 2
+T 893 :task 2
+T 894 :task 2
+T 895 :task 4
+T 896 :task 4
+T 897 :task 4
+T 898 :task 4
+T 899 :task 4
+T 900 :task 3
+T 901 :Aperiodic task 32 deadline :931
+T 902 :Aperiodic task 32 deadline :931
+T 903 :Aperiodic task 32 deadline :931
+T 904 :Aperiodic task 32 deadline :931
+T 905 :Aperiodic task 32 deadline :931
+T 906 :Aperiodic task 32 deadline :931
+T 907 :task 9
+T 908 :task 9
+T 909 :task 9
+T 910 :task 9
+T 911 :task 9
+T 912 :task 6
+T 913 :task 6
+T 914 :task 6
+T 915 :task 3
+T 916 :task 6
+T 917 :task 9
+T 918 :task 9
+T 919 :task 9
+T 920 :task 9
+T 921 :task 9
+T 922 :task 4
+T 923 :task 4
+T 924 :task 4
+T 925 :task 4
+T 926 :task 4
+T 927 :task 4
+T 928 :task 4
+T 929 :task 4
+T 930 :task 3
+T 931 :Aperiodic task 33 deadline :981
+T 932 :Aperiodic task 33 deadline :981
+T 933 :Aperiodic task 33 deadline :981
+T 934 :Aperiodic task 33 deadline :981
+T 935 :Aperiodic task 33 deadline :981
+T 936 :Aperiodic task 33 deadline :981
+T 937 :Aperiodic task 33 deadline :981
+T 938 :Aperiodic task 33 deadline :981
+T 939 :Aperiodic task 33 deadline :981
+T 940 :Aperiodic task 33 deadline :981
+T 941 :task 4
+T 942 :task 4
+T 943 :task 4
+T 944 :task 4
+T 945 :task 3
+T 946 :task 4
+T 947 :task 4
+T 948 :task 4
+T 949 :task 4
+T 950 :task 4
+T 951 :task 1
+T 952 :task 1
+T 953 :task 1
+T 954 :task 1
+T 955 :task 1
+T 956 :task 1
+T 957 :task 1
+T 958 :task 1
+T 959 :task 1
+T 960 :task 3
+T 961 :task 6
+T 962 :task 6
+T 963 :task 6
+T 964 :task 6
+T 965 :task 2
+T 966 :task 2
+T 967 :task 2
+T 968 :task 2
+T 969 :task 2
+T 970 :task 2
+T 971 :task 2
+T 972 :task 7
+T 973 :task 7
+T 974 :task 7
+T 975 :task 3
+T 976 :task 7
+T 977 :task 10
+T 978 :task 10
+T 979 :task 10
+T 980 :task 10
+T 981 :Aperiodic task 34 deadline :1011
+T 982 :Aperiodic task 34 deadline :1011
+T 983 :Aperiodic task 34 deadline :1011
+T 984 :Aperiodic task 34 deadline :1011
+T 985 :Aperiodic task 34 deadline :1011
+T 986 :Aperiodic task 34 deadline :1011
+T 987 :task 8
+T 988 :task 8
+T 989 :task 8
+T 990 :task 3
+T 991 :task 8
+T 992 :task 8
+T 993 :task 8
+T 994 :task 8
+T 995 :task 8
+T 996 :task 8
+T 997 :task 8
+T 998 :task 8
+T 999 :task 8
+Missed Jobs = 0
+Sum of jobs = 135
+Miss_rate = 0.00
+FinishedAJobNumber = 34
+Average_Reponse_Time = 299.26
