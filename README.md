@@ -73,3 +73,50 @@ while clock < MaxSimTime:
     sort_ready_by_EDF()
     run_one_time_unit_and_update()
     clock += 1
+```
+
+## 5) TBS (Total Bandwidth Server)
+
+### 🎯 Goal
+Maintain a **total bandwidth limit** for aperiodic jobs.  
+Similar to **CUS**, but with explicit **bandwidth budget enforcement** if enabled.  
+
+---
+
+### 📐 Deadline Assignment
+For an aperiodic job `J_i` arriving at time `t` with execution time $C_i$:  
+
+$$
+D_i = \max(t, D_{i-1}) + \frac{C_i}{U_b}
+$$  
+
+where $U_b$ is the **bandwidth fraction reserved** for aperiodic tasks.  
+
+---
+
+### 📝 Pseudocode
+```text
+tbs_deadline = 0
+budget = BUCKET_INIT
+
+while clock < MaxSimTime:
+    remove_missed_periodic_jobs()
+    release_periodic_jobs(clock)
+
+    for each arriving aperiodic:
+        tbs_deadline = max(clock, tbs_deadline) + C_i / U_b
+        job.D = tbs_deadline
+        push_ready(job)
+
+    sort_ready_by_EDF()
+
+    if head_is_aperiodic and budget == 0:
+        run_periodic_only()
+    else:
+        run_one_time_unit_and_update()
+        if ran_aperiodic:
+            budget -= 1
+
+    maybe_refill_budget()
+    clock += 1
+```
