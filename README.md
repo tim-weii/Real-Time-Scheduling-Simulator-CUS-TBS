@@ -1,4 +1,4 @@
-# ⏱ Real-Time Scheduling Simulator: CUS / TBS
+#  Real-Time Scheduling Simulator: CUS / TBS
 
 ##  Project Summary
 This project implements two real-time scheduling servers — **CUS (Constant Utilization Server)** and **TBS (Total Bandwidth Server)** — to handle **periodic and aperiodic tasks**.  
